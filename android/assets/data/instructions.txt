@@ -1,0 +1,6 @@
+Help your teammates guess as many words as possible before your time runs out without saying any of the words on the screen.
+When your team guesses the word, press the green button. 
+If you decide to skip the word or if you say one of the words on the screen, press the red button. Have a member of the other team watch the screen!
+When the time runs out, it is the other team's turn to do the same thing.
+The teams may want to choose a different "describer" each time. 
+
