@@ -36,11 +36,11 @@ public class WordSelector {
        while (!validWord) {
            index = r.nextInt(guessWordsList.size());
 
-           if (guessWordsList.get(index).contains("@")/* && !usedBeforeList.contains(index)*/) {
+           if (guessWordsList.get(index).contains("@") && !usedBeforeList.contains(index)) {
                    validWord = true;
                    usedBeforeList.add(index);
            } else if (usedBeforeList.size() == guessWordsList.size() / 5) { //Bug on this line. NullPointerException
-                   usedBeforeList.clear();
+                   clearUsedBeforeList();
                    Gdx.app.log("usedBeforeList", "Cleared");
                }
            }
