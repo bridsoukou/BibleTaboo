@@ -163,7 +163,7 @@ Future
 Foretell	
 Vision	
 Daniel
-@Coleporter	
+@Colporteurs
 Pioneer	
 Service	
 Time	
@@ -198,7 +198,7 @@ Regional
 District	
 International	
 Drama
-@Celesital Chariot	
+@Celestial Chariot	
 Ezekiel	
 Eyes	
 Moving	
