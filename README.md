@@ -3,7 +3,7 @@ A theocratic version of the board game Taboo, written in Java with LibGDX.
 
 To start the game on Windows, Linux, or Mac OS (Requires JVM):
 
-Run `desktop/builds/lib/desktop-1.0.jar`
+Run `runBibleTaboo.jar`
 
 To edit the word list:
 
